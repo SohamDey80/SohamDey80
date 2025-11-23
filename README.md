@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-cyber-dark&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-cyber-dark" /> </p>
 
-### 🚀 About Me  
+### About Me --> 
 - 🎓 B.Tech in Computer Science and Engineering from MAKAUT University
   
 - 💻 Currently working on: Full-stack projects
