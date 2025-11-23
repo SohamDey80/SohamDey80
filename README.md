@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width= "1000" height="170" />
 <h1 align="center">
-  Hi there, I'm Soham Kumar Dey 
+  Hi there, I'm 𝘚𝘰𝘩𝘢𝘮 𝘒𝘶𝘮𝘢𝘳 𝘋𝘦𝘺
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" 
        alt="waving hand" width="60" height="60" style="vertical-align: middle;"/>
 </h1>
