@@ -5,7 +5,7 @@
        alt="waving hand" width="60" height="60" style="vertical-align: middle;"/>
 </h1>
 <h3 align="center">Aspiring Software Engineer | Web & Backend Developer | Lifelong Learner</h3>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### About Me <img src='https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM5MTc5OTEsIm5iZiI6MTc2MzkxNzY5MSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTIzVDE3MDgxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkNjc5ZmYzYmVlOTViZmMyMDFhYjcyYTZmNmI0Yzc3NjcxZmNlNDg2MmQ2NjQzMzFmZDRmN2FmZDM4NDZkYmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-YDZCtz95iZBnU2yukGTiPpsfDNroJXPKC94Lqw_HIc' width="40"> 
 - 🎓 B.Tech in Computer Science and Engineering from MAKAUT University
