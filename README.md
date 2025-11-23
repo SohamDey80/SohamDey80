@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" 
        alt="waving hand" width="60" height="60" style="vertical-align: middle;"/>
 </h1>
-<h3 align="center">Aspiring Software Engineer | Web & Backend Developer </h3>
+<h3 align="center">Aspiring Software Engineer | Web & Backend Developer | Lifelong Learner</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-cyber-dark&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-cyber-dark" /> </p>
