@@ -81,11 +81,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated line"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamDey80&show_icons=true&locale=en&layout=compact" alt="SohamDey80" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SohamDey80&show_icons=true&locale=en" alt="SohamDey80" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SohamDey80&" alt="SohamDey80" /></p>
+| ![SohamDey80 github stats](https://github-readme-stats.vercel.app/api?username=SohamDey80\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![SohamDey80 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SohamDey80&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
