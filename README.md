@@ -39,9 +39,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated line"/>
 </p>
 
-| ![SohamDey80 github stats](https://github-readme-stats.vercel.app/api?username=SohamDey80\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![SohamDey80 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SohamDey80&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
-
 <h3 align="left">Connect with me: <img align="right" alt="Coding"  src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM5MTc5OTEsIm5iZiI6MTc2MzkxNzY5MSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTIzVDE3MDgxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5NmY3NzcxMDc1OTc3OTQzMGQxNmU3MzZkNTk2MjMxZjljNGU2ZWNjZDkxM2YzY2ExZjc1NWMzOWU0ZDI3NDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qGSCX_WHREG260RpdoAFDo499E4UEHNjqi9LZlAzgi0" height="130" width="140" style="margin-left:10px;"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/soham-kumar-dey-756b2a215/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="soham kumar dey" height="50" width="60" /></a>
@@ -49,4 +46,8 @@
 <a href="https://www.hackerrank.com/profile/deysoham000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deysoham000" height="40" width="50" /></a>
 <a href="https://www.discordapp.com/users/823977163534893126" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="soham_800" height="50" width="60" /></a>
 </p>
+
+| ![SohamDey80 github stats](https://github-readme-stats.vercel.app/api?username=SohamDey80\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![SohamDey80 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SohamDey80&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
+
 
